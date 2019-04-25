@@ -12,10 +12,16 @@ we can check the last commit and the latest changes.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branches can refer to old time we wanted to modify .now we can simply do that without 
+any hichkich hochpoch
+
 How do the diagrams help you visualize the branch structure?
+diagram give us a know how of what our work is looking like all the branches and commits we made
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+it keeps all the new features and removes the not important one and when makes a c
+collective code final...it is represented that way for a better understanding.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
